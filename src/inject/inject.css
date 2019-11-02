@@ -1,0 +1,13 @@
+/**
+ * Place your custom CSS styles here.
+ **/
+table tr td:nth-child(6) span {
+    font-size: 0;
+}
+div[title="ESPN Projection"] {
+    font-size: 0;
+}
+
+.hide-projections {
+    font-size: 0;
+}
